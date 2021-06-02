@@ -12,17 +12,17 @@
 		<relativePath />
 	</parent>
 
-	<groupId>com.mycompany</groupId>
-	<artifactId>GaussFiltering</artifactId>
+	<groupId>org.nrnb</groupId>
+	<artifactId>TrialPlugin</artifactId>
 	<version>0.1.0-SNAPSHOT</version>
 
-	<name>Gauss Filtering</name>
-	<description>A Maven project implementing an ImageJ command.</description>
-	<url>https://mycompany.com/imagej/gauss-filtering/</url>
-	<inceptionYear>2017</inceptionYear>
+	<name>Trial Plugin</name>
+	<description>This is just a trial plugin for understanding.</description>
+	<url>https://github.com/nikitamahoviya</url>
+	<inceptionYear>2021</inceptionYear>
 	<organization>
-		<name>My Company</name>
-		<url>https://mycompany.com/</url>
+		<name>National Resource Of Network Biology</name>
+		<url>nrnb.org</url>
 	</organization>
 	<licenses>
 		<license>
@@ -34,9 +34,9 @@
 	<developers>
 		<!-- See https://imagej.net/Team -->
 		<developer>
-			<id>ctrueden</id>
-			<name>Curtis Rueden</name>
-			<url>https://imagej.net/User:Rueden</url>
+			<id>nikitamahoviya</id>
+			<name>Nikita Mahoviya</name>
+			<url>https://github.com/nikitamahoviya</url>
 			<roles>
 				<role>founder</role>
 				<role>lead</role>
@@ -50,10 +50,8 @@
 	</developers>
 	<contributors>
 		<contributor>
-			<name>Yili Zhao</name>
-			<url>https://imagej.net/User:Panovr</url>
-			<roles><role>founder</role></roles>
-			<properties><id>panovr</id></properties>
+			<name>none</name>
+			
 		</contributor>
 	</contributors>
 
